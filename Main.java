@@ -8,5 +8,6 @@ public class Main
         MyFloat b = new MyFloat(8656645, 4);
 
         a.sum(b);
+        a.subtraction(b);
     }
 }
